@@ -4,7 +4,7 @@ project:
   title:        "epilepsy lights!"      # Project title
   author:       "akbananaboat"      # Your name
   discord:      "dont contact me"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "epilepsy lights!"      # One line description of what your project does
+  description:  "switching lights"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     10       # Clock frequency in Hz (or 0 if not applicable)
 
